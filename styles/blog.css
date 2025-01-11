@@ -94,6 +94,81 @@
 
 
 
+
+/*  */
+.vision-section{
+  display: flex;
+  gap: 24px;
+}
+
+
+.vision{
+  background-color: #b7ccf0;
+  padding: 32px 32px;
+  border-radius: 16px;
+}
+
+
+.vision-color-regular {
+  font-family: "Fira Sans", serif;
+  font-style: normal;
+  color: #0E0E0E;
+  font-size: 20px;
+  opacity: 70%;
+}
+
+
+.vision-div-button{
+  background-color:#5490F5;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  padding: 13px 26px;
+  border: none;
+  border-radius: 8px;
+}
+
+
+
+
+.vision-2{
+  background-color: #C6E4D6;
+  padding: 32px 32px;
+  border-radius: 16px;
+}
+
+.vision-2-div-button{
+  background-color:#09A15C;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  padding: 13px 26px;
+  border: none;
+  border-radius: 8px;
+}
+
+
+.vision-3{
+  background-color: #F7EBCF;
+  padding: 32px 32px;
+  border-radius: 16px;
+}
+
+.vision-3-div-button{
+  background-color:#FFC239;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  padding: 13px 26px;
+  border: none;
+  border-radius: 8px;
+}
+
+
+
+
+
+
 /* section 2 */
 
 .Yunus{
@@ -186,20 +261,6 @@
 
 
 /* 4th */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .section-4th{
@@ -331,7 +392,18 @@
 
 
 
+/* footer */
 
+.footer{
+  text-align: center;
+  background-color: #FFFFFF;
+  border-top: 1px solid #ccc;
+  padding: 20;
+  
+}
+.footer-div{
+  margin: 10px;
+}
 
 
 
