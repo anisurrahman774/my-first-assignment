@@ -289,7 +289,7 @@
   background-color:#C6E4D6;
   font-size: 20px;
   font-weight: bold;
-  color: #C6E4D6;
+  color: #0E0E0E;
   padding: 40px 40px;
   border: none;
   border-radius: 16px;
@@ -298,8 +298,8 @@
 
 
 .donate-color-button {
-  background-color: #C6E4D6;
-  color: #000000;
+  background-color: #004d40;
+  color: #fff;
 }
 
 .donate-button:hover {
@@ -313,6 +313,7 @@
   height:64px ;
   text-align: center;
   margin-bottom: 20px;
+  border: none;
 }
 
 .section-4{
